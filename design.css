@@ -9,9 +9,15 @@
     color: rgb(26, 51, 104);
     font-size: 15px;
 }
+h1{
+    text-decoration: overline;
+}
 img{
     width: 80px;
     height: auto;
+}
+td{
+    width: 200%;
 }
 .col1{
     float: left;
@@ -43,16 +49,4 @@ a{
 h3{
     font-size: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-.Table1{
-    margin-top: 10px;
-    text-align: center;
-    width: 49%;
-    display: inline-block;
-}
-.Table2{
-    margin-top: 10px;
-    text-align: center;
-    width: 48%;
-    display: inline-block;
 }
